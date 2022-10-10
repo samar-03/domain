@@ -495,5 +495,26 @@ const projects = [
 		link: 'https://codepen.io/FlorinPop17/full/QWwgyXd'
 	}
 ];
+const app = document.getElementById('app');
+const imgBaseURL = 'https://www.florin-pop.com/images/100Days100PRojects/Day ';
+
+projects.forEach(project => {
+	const title = `${project.name} - #${project.nr}`;
+	const imgURL = imgBaseURL + project.nr + '.jpg';
+	
+	const projectEl = document.createElement('a');
+	projectEl.classList.add('project');
+	projectEl.href = project.link;
+	projectEl.target = '_blank';
+
+	projectEl.innerHTML = `
+        <img src="${imgURL}" alt="${title}"/>
+		<p>
+			${title}
+		</p>
+    `;
+
+	app.appendChild(projectEl);
+});
 
 
