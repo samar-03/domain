@@ -244,257 +244,53 @@ const projects = [
 		name: 'Theme Toggler',
 		link: 'https://codepen.io/FlorinPop17/full/XWWZYYG'
 	},
-	{
-		nr: '050',
-		name: 'Infinite Scroll',
-		link: 'https://codepen.io/FlorinPop17/full/zYYWwRy'
-	},
-	{
-		nr: '051',
-		name: 'Side Menu Animation',
-		link: 'https://codepen.io/FlorinPop17/full/LYYdMXr'
-	},
-	{
-		nr: '052',
-		name: 'First YouTube Video',
-		link: 'https://codepen.io/FlorinPop17/full/JjjvzJP'
-	},
-	{
-		nr: '053',
-		name: 'User Card Design',
-		link: 'https://codepen.io/FlorinPop17/full/dyyKpwd'
-	},
-	{
-		nr: '054',
-		name: 'Rotation Slideshow',
-		link: 'https://codepen.io/FlorinPop17/full/VwwdNvP'
-	},
-	{
-		nr: '055',
-		name: 'Message Cards Design',
-		link: 'https://codepen.io/FlorinPop17/full/zYYLxOg'
-	},
-	{
-		nr: '056',
-		name: 'Digital Block Clock',
-		link: 'https://codepen.io/FlorinPop17/full/jOOpQYG'
-	},
-	{
-		nr: '057',
-		name: 'Become a Millionaire',
-		link: 'https://codepen.io/FlorinPop17/full/qBBMWey'
-	},
-	{
-		nr: '058',
-		name: 'Car Avoidance Game',
-		link: 'https://codepen.io/FlorinPop17/full/WNNgqqO'
-	},
-	{
-		nr: '059',
-		name: 'Direction Aware Hover Effect',
-		link: 'https://codepen.io/FlorinPop17/full/WNNaPwa'
-	},
-	{
-		nr: '060',
-		name: 'Mobile Tab Navigation',
-		link: 'https://codepen.io/FlorinPop17/full/pooQgYO'
-	},
-	{
-		nr: '061',
-		name: 'Live User Filter',
-		link: 'https://codepen.io/FlorinPop17/full/pooQmjO'
-	},
-	{
-		nr: '062',
-		name: 'Blobby',
-		link: 'https://codepen.io/FlorinPop17/full/PooXqaQ'
-	},
-	{
-		nr: '063',
-		name: 'Blog Posts Design',
-		link: 'https://codepen.io/FlorinPop17/full/mddavNq'
-	},
-	{
-		nr: '064',
-		name: 'Hidden Search',
-		link: 'https://codepen.io/FlorinPop17/full/xxxMJbw'
-	},
-	{
-		nr: '065',
-		name: 'Flomoji 🤩',
-		link: 'https://codepen.io/FlorinPop17/full/bGGZWjr'
-	},
-	{
-		nr: '066',
-		name: 'Moving Hamburger Animation',
-		link: 'https://codepen.io/FlorinPop17/full/wvvZvWp'
-	},
-	{
-		nr: '067',
-		name: 'Landing Page Header',
-		link: 'https://codepen.io/FlorinPop17/full/gOOyaYg'
-	},
-	{
-		nr: '068',
-		name: 'Newsletter Design',
-		link: 'https://codepen.io/FlorinPop17/full/XWWQLxv'
-	},
-	{
-		nr: '069',
-		name: 'Dad Jokes',
-		link: 'https://codepen.io/FlorinPop17/full/dyyEvVV'
-	},
-	{
-		nr: '070',
-		name: 'Kinetic Loader',
-		link: 'https://codepen.io/FlorinPop17/full/yLLWrKB'
-	},
-	{
-		nr: '071',
-		name: 'Donate Design',
-		link: 'https://codepen.io/FlorinPop17/full/bGGPKZV'
-	},
-	{
-		nr: '072',
-		name: 'Instagram Image Feed',
-		link: 'https://codepen.io/FlorinPop17/full/zYYgoEZ'
-	},
-	{
-		nr: '073',
-		name: 'Form Validation',
-		link: 'https://codepen.io/FlorinPop17/full/OJJKQeK'
-	},
-	{
-		nr: '074',
-		name: 'Background Changer',
-		link: 'https://codepen.io/FlorinPop17/full/MWYgYNM'
-	},
-	{
-		nr: '075',
-		name: 'Auto Text',
-		link: 'https://codepen.io/FlorinPop17/full/jOENxEL'
-	},
-	{
-		nr: '076',
-		name: 'Clip-Path Animation',
-		link: 'https://codepen.io/FlorinPop17/full/VwYZNyL'
-	},
-	{
-		nr: '077',
-		name: 'Social Links',
-		link: 'https://codepen.io/FlorinPop17/full/Powoaoj'
-	},
-	{
-		nr: '078',
-		name: 'Color Matching Game',
-		link: 'https://codepen.io/FlorinPop17/full/zYxxGzO'
-	},
-	{
-		nr: '079',
-		name: 'Background Slider',
-		link: 'https://codepen.io/FlorinPop17/full/GRggPob'
-	},
-	{
-		nr: '080',
-		name: 'Steps',
-		link: 'https://codepen.io/FlorinPop17/full/eYmNQgY'
-	},
-	{
-		nr: '081',
-		name: 'Drink Water',
-		link: 'https://codepen.io/FlorinPop17/full/ExajrQJ'
-	},
-	{
-		nr: '082',
-		name: 'Random Picker Visualizer',
-		link: 'https://codepen.io/FlorinPop17/full/zYxvJmP'
-	},
-	{
-		nr: '083',
-		name: 'YouTube Video Suggestion UI',
-		link: 'https://codepen.io/FlorinPop17/full/mdyeggY'
-	},
-	{
-		nr: '084',
-		name: 'Sparkles',
-		link: 'https://codepen.io/FlorinPop17/full/xxbZVYm'
-	},
-	{
-		nr: '085',
-		name: 'Breadcrumbs Design',
-		link: 'https://codepen.io/FlorinPop17/full/eYmZvaB'
-	},
-	{
-		nr: '086',
-		name: 'Traffic Lights',
-		link: 'https://codepen.io/FlorinPop17/full/ExayYWw'
-	},
-	{
-		nr: '087',
-		name: 'Invoice Design',
-		link: 'https://codepen.io/FlorinPop17/full/ExaypRr'
-	},
-	{
-		nr: '088',
-		name: 'Blurry Loading',
-		link: 'https://codepen.io/FlorinPop17/full/mdyEggx'
-	},
-	{
-		nr: '089',
-		name: 'Rain Drops',
-		link: 'https://codepen.io/FlorinPop17/full/yLyaPJb'
-	},
-	{
-		nr: '090',
-		name: 'Tooltip',
-		link: 'https://codepen.io/FlorinPop17/full/dyPprax'
-	},
-	{
-		nr: '091',
-		name: 'Live Visit Count',
-		link: 'https://codepen.io/FlorinPop17/full/BayQZZy'
-	},
-	{
-		nr: '092',
-		name: 'CSS Pulse Effect',
-		link: 'https://codepen.io/FlorinPop17/full/NWPbJmb'
-	},
-	{
-		nr: '093',
-		name: 'Incrementing Counter',
-		link: 'https://codepen.io/FlorinPop17/full/BaypGjb'
-	},
-	{
-		nr: '094',
-		name: 'Course Card UI',
-		link: 'https://codepen.io/FlorinPop17/full/dyPvNKK'
-	},
-	{
-		nr: '095',
-		name: '404 Sh*t Page',
-		link: 'https://codepen.io/FlorinPop17/full/OJPpQLp'
-	},
-	{
-		nr: '096',
-		name: 'Waves',
-		link: 'https://codepen.io/FlorinPop17/full/WNbjQWN'
-	},
-	{
-		nr: '097',
-		name: 'Hotel Reservation Design',
-		link: 'https://codepen.io/FlorinPop17/full/eYmWRdm'
-	},
-	{
-		nr: '098',
-		name: 'FAQ',
-		link: 'https://codepen.io/FlorinPop17/full/xxbdmYz'
-	},
-	{
-		nr: '099',
-		name: 'Cheap, Good, Fast',
-		link: 'https://codepen.io/FlorinPop17/full/QWwgyXd'
-	}
+	
 ];
+   const newTask = document.querySelector("#new-task-input");
+const addTaskBtn = document.querySelector(".add-task-btn");
+const removeCompleteBtn = document.querySelector(".remove-complete-btn");
+const taskList = document.querySelector(".task-list");
+const taskTemplate = document.querySelector("#task-template");
+let id = 1;
+
+newTask.addEventListener("keyup", (e) => {
+  if (e.keyCode === 13 && inputValid()) {
+    addTask();
+  }
+});
+
+addTaskBtn.addEventListener("click", () => {
+  if (inputValid()) {
+    addTask();
+  }
+});
+
+removeCompleteBtn.addEventListener("click", () => {
+  const tasks = document.querySelectorAll(".task");
+  tasks.forEach((task) => {
+    const checked = task.querySelector("input").checked;
+    if (checked) {
+      task.remove();
+    }
+  });
+});
+
+function addTask() {
+  const taskElement = document.importNode(taskTemplate.content, true);
+  const checkbox = taskElement.querySelector("input");
+  checkbox.id = id;
+  const label = taskElement.querySelector("label");
+  label.htmlFor = id;
+  label.append(newTask.value);
+  taskList.appendChild(taskElement);
+  newTask.value = "";
+  id++;
+}
+
+function inputValid() {
+  return newTask.value !== "";
+}
+
 const app = document.getElementById('app');
 const imgBaseURL = 'https://www.florin-pop.com/images/100Days100PRojects/Day ';
 
